@@ -1,0 +1,30 @@
+.plans-container--slider {
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 899px;
+    margin: 0 auto;
+}
+
+/* Este codigo es el de clase */
+/* .main-tables-container {
+    display: flex;
+    width: 899px;
+    margin: 0 auto;
+    overflow-x: hidden;
+} */
+
+/* este codigo es el que hiciste con unas modificasiones */
+#container-principal--tables {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    overflow-x: hidden;
+    margin: 0 auto;
+}   
+
+
